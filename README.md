@@ -22,8 +22,8 @@ I'm a 2nd-year engineering student with a strong passion for technology and a dr
 
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=zied-dahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zied-dahmani&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=zied-dahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zied-dahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
