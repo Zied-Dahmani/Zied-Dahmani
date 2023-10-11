@@ -1,5 +1,5 @@
 # ✍️ About Me
-I'm a 3rd-year engineering student with a strong passion for technology and a drive to learn. I have experience in IT, including mobile development and backend systems, and I've had the rewarding experience of launching a startup. Additionally, I've gained valuable insights into customer service through roles outside the digital realm. Currently freelancing, I'm excited to take on new challenges and make a meaningful impact. Let's connect and explore the possibilities together!
+I'm a final-year software engineering student with a strong passion for technology and a drive to learn. I have experience in IT, including mobile development and backend systems, and I've had the rewarding experience of launching a startup. Additionally, I've gained valuable insights into customer service through roles outside the digital realm. Currently freelancing, I'm excited to take on new challenges and make a meaningful impact. Let's connect and explore the possibilities together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zied-dahmani-921a18201/) 
 
