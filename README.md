@@ -11,10 +11,10 @@ I thrive in collaborative environments, combining technical expertise with stron
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![GenKit](https://img.shields.io/badge/GenKit-FF4500?style=for-the-badge&logo=firebase&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=graphql&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![GenKit](https://img.shields.io/badge/GenKit-FF4500?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2C3E50?style=for-the-badge&logo=github-actions&logoColor=white)
