@@ -1,7 +1,9 @@
 # ✍️ About Me
-I’m a **Software Engineer** specializing in **mobile development** (Flutter, Kotlin, Swift) and **AI-driven systems**. I’ve built and shipped production mobile apps, contributed to complex architectures, and designed AI agents.  
+I’m a **Software Engineer** specializing in **mobile development** with **Flutter** and building **AI agents** with **LangGraph**. I focus on turning ideas into production products, from mobile apps to intelligent solutions that solve real-world problems, contributing to both implementation and system architecture.
 
-I thrive in collaborative environments, combining technical expertise with strong teamwork and leadership to deliver robust, high-quality solutions. Passionate about emerging technologies, I’m always ready to tackle new challenges and make a tangible impact.  
+I enjoy exploring cutting-edge AI tools, crafting seamless mobile experiences, and creating projects that combine efficiency, usability, and innovation.
+
+Always looking to learn, improve, and tackle challenges that push technology forward.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zied-dahmani-921a18201/) 
 
